@@ -6,5 +6,5 @@ Track your expenses and create Budget from here
 Client: React- router- dom, React, CSS
 
 # Links
-* Project link:
+* Project link: https://github.com/priya940/BudgetApp
 * Deploy Link: 
